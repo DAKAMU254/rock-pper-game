@@ -27,14 +27,14 @@ h1 {
 }
 
 .choices {
-    margin: 20px 0;
+    margin: 30px 0;
 }
 
-.choice {
-    font-size: 1.2rem;
-    padding: 10px 20px;
-    margin: 10px;
-    border: 2px solid #333;
+.choices button {
+    font-size: 7.5rem;
+    min-width: 160px;
+    margin:0 10px;
+    border-radius:250px;
     background-color: #eee;
     cursor: pointer;
     transition: background-color 0.3s;
